@@ -20,4 +20,11 @@
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Milestones\Commands\DeleteMilestoneById\" />
+    <Folder Include="Features\Milestones\Commands\UpdateMilestone\" />
+    <Folder Include="Features\Milestones\Queries\GetAllMilestone\" />
+    <Folder Include="Features\Milestones\Queries\GetMilestoneById\" />
+  </ItemGroup>
+
 </Project>

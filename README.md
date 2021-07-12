@@ -4,7 +4,15 @@
 - ASP.NET Core 5.0 WebApi
 - REST Standards
 - .NET Core 5.0 / Standard 5.0 Libraries
-
+## Purpose
+- Management Bug 
+	- Project
+	- Milestones
+	- Bug Infomation
+	- Priority
+	- Classification
+	- Assign To
+	- Followers
 ## Features
 - [x] Onion Architecture
 - [x] CQRS with MediatR Library
@@ -30,3 +38,8 @@
 - [x] SMTP / Mailkit / Sendgrid Email Service
 - [x] Complete User Management Module (Register / Generate Token / Forgot Password / Confirmation Mail)
 - [x] User Auditing
+
+## About the Author
+### Truong Nguyen
+- Skype - truong6789@gmail.com (Nguyen Truong IT)
+- Email - truong6789@gmail.com
